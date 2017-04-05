@@ -1,5 +1,5 @@
 # mycreations
-To show my creations as my portfolio or proof that i am capable in <b>Web<b> and <b>Mobile development</b>
+To show my creations as my portfolio or proof that i am capable in <b>Web</b> and <b>Mobile development</b>
 
 Some of my project is done way back when i am studying at <b>QUEZON CITY POLYTECHNIC UNIVERSITY</b> , Freelance Projects and Team Projects
 
