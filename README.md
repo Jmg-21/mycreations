@@ -20,4 +20,7 @@ Some of my project is done way back when i am studying at <b>QUEZON CITY POLYTEC
     <li>SCSS</li> 
   </ul>
 
+<p><b>Linux</b> is my preffred OS in developement</p> 
+
+ 
  
