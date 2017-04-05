@@ -2,8 +2,8 @@
 
 <p>Create using Java as Programming Language and XML as the Fontend in Android Studio</p>
  
- <?php>
-  echo "PHP is real";  
-</?php>
+ <script>
+  alert('echo "PHP is real";')  
+</script>
 
  
